@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-<img src="matrix-rain.svg" alt="matrix rain" width="120">
+<img src="matrix_rain.svg" alt="matrix rain" width="120">
 
 Welcome to my digital world...
 
