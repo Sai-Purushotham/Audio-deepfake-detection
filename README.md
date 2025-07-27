@@ -1,7 +1,7 @@
 # Hi there! 👋
 
 <h2>
-  <img src="matrix-rain.svg" alt="matrix" width="50" style="vertical-align: text-bottom; margin-right: 10px;">
+  <img src="matrix_rain.svg" alt="matrix" width="50" style="vertical-align: text-bottom; margin-right: 10px;">
   Audio Deepfake Detection
 </h2>
 
