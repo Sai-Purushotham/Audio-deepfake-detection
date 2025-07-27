@@ -1,5 +1,8 @@
-# Audio Deepfake Detection
+# Hi there! 👋
 
-A project to identify synthetic or manipulated audio using machine learning techniques. 
-It leverages Python, TensorFlow, and Librosa for feature extraction, model training, and real-time detection. 
-Designed for accuracy, scalability, and easy integration into existing systems.
+<img src="matrix-rain.svg" alt="matrix rain" width="120">
+
+Welcome to my digital world...
+
+## About Me
+<img src="matrix-rain.svg" alt="matrix" width="80"> Currently diving deep into the code matrix
